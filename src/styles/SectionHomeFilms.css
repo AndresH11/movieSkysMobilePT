@@ -1,0 +1,18 @@
+.sectionHomeFilmsContainer {
+  margin-top: 1rem;
+  display: flex;
+  padding-left: 1rem;
+  align-items: center;
+  color: gainsboro;
+}
+
+.sectionHomeFilmsContainer:hover {
+  color: grey;
+  border-left: 0.3rem solid grey;
+  cursor: pointer;
+}
+
+.sectionHomeFilmsContainer .titleSection {
+  margin-left: 1rem;
+  font-size: 2rem;
+}
